@@ -3,7 +3,7 @@
 Plugin Name: Workcity Client Projects
 Description: Custom post type for managing client projects with shortcode display.
 Version: 1.0
-Author: Your Name
+Author: Awoleye Bolaji
 */
 
 if (!defined('ABSPATH')) exit; // Exit if accessed directly
